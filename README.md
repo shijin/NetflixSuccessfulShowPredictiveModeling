@@ -29,7 +29,7 @@ As Netflix continues to produce and acquire global content, understanding what m
 
 ---
 
-## 🧪 Model Building & Experiments
+## Model Building & Experiments
 
 ### Phase 1: Decision Tree Classifier  
 - Initially included `vote_average` and achieved **100% accuracy** — clear **overfitting** due to data leakage.
@@ -45,7 +45,7 @@ As Netflix continues to produce and acquire global content, understanding what m
 
 ---
 
-## 🧪 Hyperparameter Tuning & Cross-Validation
+## Hyperparameter Tuning & Cross-Validation
 
 - Used `RandomizedSearchCV` to optimize parameters (`n_estimators`, `max_depth`, etc.).
 - Performed cross-validation using:
@@ -54,7 +54,7 @@ As Netflix continues to produce and acquire global content, understanding what m
 
 ---
 
-## ✅ Final Model Evaluation (on test set)
+## Final Model Evaluation (on test set)
 
 | Metric             | Value     |
 |--------------------|-----------|
@@ -72,7 +72,7 @@ As Netflix continues to produce and acquire global content, understanding what m
 
 ---
 
-## 📈 Key Visualizations
+## Key Visualizations
 
 - Feature Importances bar chart
 - Confusion Matrix heatmap
@@ -82,7 +82,7 @@ As Netflix continues to produce and acquire global content, understanding what m
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 
 - Python (pandas, numpy, matplotlib, seaborn)
 - Scikit-learn
@@ -98,5 +98,5 @@ As Netflix continues to produce and acquire global content, understanding what m
 
 ---
 
-## 📁 Structure
+## Structure
 
