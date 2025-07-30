@@ -23,7 +23,7 @@ As Netflix continues to produce and acquire global content, understanding what m
 
 ## Exploratory Data Analysis (EDA)
 
-- Identified genre-wise success rates — e.g., **Sci-Fi & Fantasy** and **Action& ** genres showed varying success patterns.
+8- Identified genre-wise success rates — e.g., **Sci-Fi & Fantasy** and **Action & Adventure** genres showed varying success patterns.
 - Found **'vote_count'** to be the strongest predictor-9.
 - Analyzed distribution and outliers in features like `popularity`, `release_year`, and `rating`.
 
