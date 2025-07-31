@@ -88,7 +88,22 @@ As Netflix continues to produce and acquire global content, understanding what m
 - Python (pandas, numpy, matplotlib, seaborn)
 - Scikit-learn
 - Jupyter Notebooks
+- 
+---
 
+### To Run on Google Colab:
+1. Open this notebook in Colab:  
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/shijin/NetflixSuccessfulShowPredictiveModeling/blob/main/NetflixShows_EDA_PredictiveModeling.ipynb)
+
+2. Upload the dataset manually:  
+   - Click the file icon (left sidebar in Colab)
+   - Click **Upload**, then select `netflixshows2025.csv`  
+   *(or run the cell `from google.colab import files` to upload interactively)*
+
+3. Alternatively, replace the `read_csv()` line with a GitHub raw link:
+```python
+df = pd.read_csv('netflixshows2025.csv')
+```
 ---
 
 ## Lessons Learned
