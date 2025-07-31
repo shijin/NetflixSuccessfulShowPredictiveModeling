@@ -23,7 +23,7 @@ As Netflix continues to produce and acquire global content, understanding what m
 
 ## Exploratory Data Analysis (EDA)
 
-8- Identified genre-wise success rates — e.g., **Sci-Fi & Fantasy** and **Action & Adventure** genres showed varying success patterns.
+- Identified genre-wise success rates — e.g., **Sci-Fi & Fantasy** and **Action & Adventure** genres showed varying success patterns.
 - Found **'vote_count'** to be the strongest predictor-9.
 - Analyzed distribution and outliers in features like `popularity`, `release_year`, and `rating`.
 
@@ -82,7 +82,7 @@ As Netflix continues to produce and acquire global content, understanding what m
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 - Python (pandas, numpy, matplotlib, seaborn)
 - Scikit-learn
@@ -90,7 +90,7 @@ As Netflix continues to produce and acquire global content, understanding what m
 
 ---
 
-## 🧵 Lessons Learned
+## Lessons Learned
 
 - Data leakage is subtle — features like `vote_average` closely tied to the label can inflate metrics falsely.
 - Feature selection and domain logic are as important as model complexity.
@@ -98,5 +98,5 @@ As Netflix continues to produce and acquire global content, understanding what m
 
 ---
 
-## Structure
-
+## Author
+- Shijin Ramesh, Data Analyst
