@@ -79,6 +79,7 @@ As Netflix continues to produce and acquire global content, understanding what m
 - ROC Curve with AUC
 - Genre-wise success rate
 - Class distribution before and after feature engineering
+- Power BI Dashboard [Link](https://app.powerbi.com/links/UL-mhIFhvE?ctid=695626df-d117-4278-b37d-1252e4fd8b07&pbi_source=linkShare)
 
 ---
 
